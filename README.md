@@ -22,10 +22,11 @@
 
 <img src="https://webpets-flame.vercel.app/generated/dog/red_run_8fps.gif" alt="dog">
 
-<h5>
-  <a href="https://youtu.be/s0qc130R55Y?si=zP5KW7KVue1Cs888">
-    bleh :3
-  </a>
-</h5>
 
-</div>
+
+<h5 align="center">
+ <a href="https://youtu.be/s0qc130R55Y?si=zP5KW7KVue1Cs888">
+    bleh :3
+  </a>  &nbsp;•&nbsp;
+  <a href="https://www.lakshya.lol">lakshya.lol</a>
+</h5>
