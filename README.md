@@ -2,7 +2,7 @@
 
 <h3>lakshya here!!</h3>
 
-<h5 align="center">
+<h4 align="center">
   <a href="mailto:lakshya@duck.com">mail me!</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/la-kshya/">linkedin</a>
@@ -10,7 +10,7 @@
   <a href="https://portfolio.lakshya.lol">portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://signal.me/#eu/KJOUtgou_IAbjezpus9gnTSiOEiUNgq-rVIXyTWeQuM12I1qZzJGCJYoaXBpDoy7">signal</a>
-</h5>
+</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laksh-ya/laksh-ya/output/github-contribution-grid-snake-dark.svg">
