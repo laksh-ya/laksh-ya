@@ -27,9 +27,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="4-token-meme-hd-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="3-token-meme-hd-light.png">
-  <img src="3-token-meme-hd-light.png" alt="Monkey pressing the token spending button while a buggy app with no users is on screen" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="6-derpy-meme-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="5-derpy-meme-light.png">
+  <img src="5-derpy-meme-light.png" alt="Monkey pressing the token spending button while a buggy app with no users is on screen" width="340">
 </picture>
 
 
