@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="3-token-spending-button.jpg" alt="Monkey pressing a token spending button while a buggy app with no users is on screen" width="340">
+<img src="1-token-spending-card.png" alt="Monkey pressing a token spending button while a buggy app with no users is on screen" width="340">
 
 
 
