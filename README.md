@@ -26,7 +26,19 @@
 
 <br>
 
-<img src="1-token-spending-card.png" alt="Monkey pressing a token spending button while a buggy app with no users is on screen" width="340">
+<p><sub>1. clean monkey</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="4-token-meme-hd-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="3-token-meme-hd-light.png">
+  <img src="3-token-meme-hd-light.png" alt="Clean monkey pressing the token spending button while a buggy app with no users is on screen" width="340">
+</picture>
+
+<p><sub>2. derpy monkey</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="6-derpy-meme-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="5-derpy-meme-light.png">
+  <img src="5-derpy-meme-light.png" alt="Derpy monkey pressing the token spending button while a buggy app with no users is on screen" width="340">
+</picture>
 
 
 
