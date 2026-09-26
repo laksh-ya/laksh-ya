@@ -24,6 +24,10 @@
 
 <img src="https://webpets-flame.vercel.app/generated/dog/red_run_8fps.gif" alt="dog">
 
+<br>
+
+<img src="assets/token-spending-button.jpg" alt="Monkey pressing a token spending button while a buggy app with no users is on screen" width="340">
+
 
 
 <h5 align="center">
