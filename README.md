@@ -2,7 +2,7 @@
 
 <h3>lakshya here!! 
   
-  <h4>(im looking for an internship!)</h3>
+<!-- I GOT THE INTERNSHIP WOOHOO -->
 
 <h4 align="center">
   <a href="mailto:lakshya@duck.com">mail me!</a>
